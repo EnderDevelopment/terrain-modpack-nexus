@@ -1,0 +1,24 @@
+{
+  "name": "Create and Integrated Dungeons",
+  "version": "1.0.0",
+  "minecraftVersion": "1.21.1",
+  "modLoader": {
+    "name": "neoforge",
+    "version": "21.1.172"
+  },
+  "mods": [
+    {
+      "name": "Create",
+      "projectPage": "https://www.curseforge.com/minecraft/mc-mods/create",
+      "required": true
+    },
+    {
+      "name": "Integrated Dungeons and Structures",
+      "projectPage": "https://www.curseforge.com/minecraft/mc-mods/integrated-dungeons-and-structures",
+      "required": true
+    }
+  ],
+  "excludedCategories": [
+    "terrain generation"
+  ]
+}
